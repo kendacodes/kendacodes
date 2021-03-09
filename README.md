@@ -2,7 +2,7 @@
 
 ### Hi there 🙋🏾‍♀️, I'm Kenda {Ken-DUH}
 #### I love creating new things and sharing my ideas and projects with others. 
-![HeaderGH](media/HeaderGHAnimated.mp4)
+![HeaderGH](media/HeaderGH.png)
 
 Art is life, Life is art
 
