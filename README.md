@@ -1,7 +1,7 @@
 # Kenda's code ⌨️
 
 ### Hi there 🙋🏾‍♀️, 
-### I'm Kenda {Kinn-DUH}
+### I'm Kenda {kinn-DUH}
 #### I love creating new things & sharing my ideas and projects with others. 
 ![Beige Pink Creative Designer LinkedIn Article Cover Image](https://github.com/user-attachments/assets/648f08c9-2cf3-437a-a5a6-57b04e3a6f21)
 
